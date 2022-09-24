@@ -3,7 +3,7 @@ Bank Management System is used to Keep the records of Customers' accounts.
 It is an application for maintaining a personal account in a bank by using the Artificial Intelligence CPP code.
 Its Gives users much Functionality like creating accounts, Money Withdrawal, Credit and Bank Ballance ect.
 
-OUTPUTS
+INPUT/OUTPUT In Terminal.......................
 
 
 Windows PowerShell 
